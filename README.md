@@ -10,7 +10,7 @@
 Para rodar esse projeto instale:
 
 ```
-Install Js
+node app.js
 ```
 # Índice 
 
